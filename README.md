@@ -1,2 +1,0 @@
-# alaram
-alaram.code
